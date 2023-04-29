@@ -1,0 +1,41 @@
+package com.sanryoo.matcher.features.domain.model
+
+data class User(
+    var id: Long = 0,
+    var username: String = "",
+    var password: String = "",
+    var idgoogle: String = "",
+    var idfacebook: String = "",
+    var fullname: String = "",
+    var sex: Int = 0,
+    var status: Int = 1,
+    var status1: Int = 1,
+    var searching: Int = 0,
+    var avatar: String = "",
+    var image1: String = "",
+    var image2: String = "",
+    var image3: String = "",
+    var age: Int = 0,
+    var height: Int = 0,
+    var weight: Int = 0,
+    var income: Int = 0,
+    var latitude: Double = 0.0,
+    var longitude: Double = 0.0,
+    var appearance: Double = 0.0,
+    var easy: Int = 0,
+    var age1: Int = 0,
+    var age2: Int = 0,
+    var height1: Int = 0,
+    var height2: Int = 0,
+    var weight1: Int = 0,
+    var weight2: Int = 0,
+    var income1: Int = 0,
+    var distance: Int = 10,
+    var appearance1: Double = 0.0,
+    var banned: Int = 0,
+    var matched: Long = 0,
+    var fcmtoken: String = "",
+    var currentdistance: Double = 0.0
+)
+
+class InvalidUserException(message: String) : Exception(message)
