@@ -145,7 +145,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/test/java/com/sanryoo/matcher" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Android/Sdk/skins/pixel_5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
     <property name="project.structure.last.edited" value="Suggestions" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -160,6 +160,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/app/src/main" />
       <recent name="$PROJECT_DIR$/app/src/debug/res/drawable" />
     </key>
