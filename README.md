@@ -16,8 +16,8 @@ API_URL="http://<YOUR ADDRESS>:8088"
 WS_URL="ws://<YOUR ADDRESS>:8088/matcher/websocket"
 
 # Example: 
-# API_URL="http://a.b.c.d:8080"
-# WS_URL="ws://a.b.c.d:8080/matcher/websocket"
+# API_URL="http://a.b.c.d:8088"
+# WS_URL="ws://a.b.c.d:8088/matcher/websocket"
 
 ```
 
@@ -42,23 +42,23 @@ WS_URL="ws://<YOUR ADDRESS>:8088/matcher/websocket"
 ### Log in
 
 <div style="display:flex;">
-    <img src="https://raw.githubusercontent.com/SanRyoo/Image/master/option_login.png" style="width:32%;">
-    <img src="https://raw.githubusercontent.com/SanRyoo/Image/master/log_in.png" style="width:32%;">
-    <img src="https://raw.githubusercontent.com/SanRyoo/Image/master/sign_up.png" style="width:32%;"> 
+    <img src="https://raw.githubusercontent.com/SanRyoo/Matcher/master/screenshots/option_login.png" style="width:32%;">
+    <img src="https://raw.githubusercontent.com/SanRyoo/Matcher/master/screenshots/log_in.png" style="width:32%;">
+    <img src="https://raw.githubusercontent.com/SanRyoo/Matcher/master/screenshots/sign_up.png" style="width:32%;"> 
 </div>
 
 ### Using
 
 <div style="display:flex;">
-    <img src="https://raw.githubusercontent.com/SanRyoo/Image/master/home.png" style="width:32%;">
-    <img src="https://raw.githubusercontent.com/SanRyoo/Image/master/home2.png" style="width:32%;">
-    <img src="https://raw.githubusercontent.com/SanRyoo/Image/master/profile.png" style="width:32%;"> 
+    <img src="https://raw.githubusercontent.com/SanRyoo/Matcher/master/screenshots/home.png" style="width:32%;">
+    <img src="https://raw.githubusercontent.com/SanRyoo/Matcher/master/screenshots/home2.png" style="width:32%;">
+    <img src="https://raw.githubusercontent.com/SanRyoo/Matcher/master/screenshots/profile.png" style="width:32%;"> 
 </div>
 <div style="display:flex;">
-    <img src="https://raw.githubusercontent.com/SanRyoo/Image/master/menu.png" style="width:32%;">
-    <img src="https://raw.githubusercontent.com/SanRyoo/Image/master/change_password.png" style="width:32%;">
+    <img src="https://raw.githubusercontent.com/SanRyoo/Matcher/master/screenshots/menu.png" style="width:32%;">
+    <img src="https://raw.githubusercontent.com/SanRyoo/Matcher/master/screenshots/change_password.png" style="width:32%;">
 </div>
 <div style="display:flex;">
-    <img src="https://raw.githubusercontent.com/SanRyoo/Image/master/message.png" style="width:32%;">
-    <img src="https://raw.githubusercontent.com/SanRyoo/Image/master/other_screen.png" style="width:32%;">
+    <img src="https://raw.githubusercontent.com/SanRyoo/Matcher/master/screenshots/message.png" style="width:32%;">
+    <img src="https://raw.githubusercontent.com/SanRyoo/Matcher/master/screenshots/other_screen.png" style="width:32%;">
 </div>
